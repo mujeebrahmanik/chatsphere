@@ -144,7 +144,6 @@ git clone https://github.com/mujeebrahmanik/chatsphere.git
 cd chatsphere
 ```
 
-Replace `<your-repository-url>` with the actual Git repository URL.
 
 ### 2. Install dependencies
 
