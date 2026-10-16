@@ -140,7 +140,7 @@ Client-side checks improve the user experience but do not replace database polic
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone [<your-repository-url>](https://github.com/mujeebrahmanik/chatsphere.git)
 cd chatsphere
 ```
 
